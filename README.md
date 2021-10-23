@@ -2,6 +2,8 @@
 
 I'm a student studying Cyber Security.
 
+![](https://komarev.com/ghpvc/?username=vaibhav2vicky&color=green)
+
 ## Achievements
 
 <img src="http://www.hackthebox.eu/badge/image/515995" alt="Hack The Box"> <img src="https://tryhackme-badges.s3.amazonaws.com/Vaibhav2vicky.png" alt="TryHackMe">
