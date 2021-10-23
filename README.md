@@ -21,6 +21,7 @@ I'm a student studying Cyber Security.
 - [Laboratory](https://www.hackthebox.eu/achievement/machine/503730/298)
 - [Time](https://www.hackthebox.eu/achievement/machine/503730/286)
 - [Bucket](https://www.hackthebox.eu/achievement/machine/503730/283)
+- And many more..
 
 ## Completed Paths and Rooms ([Try Hack Me](https://tryhackme.com/p/Vaibhav2vicky))
 
@@ -29,6 +30,7 @@ I'm a student studying Cyber Security.
 - [OWASP Top 10](https://tryhackme.com/room/owasptop10)
 - [OhSINT](https://tryhackme.com/room/ohsint)
 - [Mr. Robot](https://tryhackme.com/room/mrrobot)
+- And many more..
 
 
 ## Technology used
