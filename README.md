@@ -1,6 +1,8 @@
 # Hi there :wave:, I am Vaibhav Kumar Yadav
 
+I'm a student studying Cyber Security.
 
+## Achievements
 
 <img src="http://www.hackthebox.eu/badge/image/515995" alt="Hack The Box"> <img src="https://tryhackme-badges.s3.amazonaws.com/Vaibhav2vicky.png" alt="TryHackMe">
 
@@ -20,10 +22,13 @@
 - [Time](https://www.hackthebox.eu/achievement/machine/503730/286)
 - [Bucket](https://www.hackthebox.eu/achievement/machine/503730/283)
 
-## Completed Paths ([Try Hack Me](https://tryhackme.com/p/Vaibhav2vicky))
+## Completed Paths and Rooms ([Try Hack Me](https://tryhackme.com/p/Vaibhav2vicky))
 
 - [Offensive Pentesting Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YJ3D5PIVDD.png)
-
+- [Wreth](https://tryhackme.com/room/wreath)
+- [OWASP Top 10](https://tryhackme.com/room/owasptop10)
+- [OhSINT](https://tryhackme.com/room/ohsint)
+- [Mr. Robot](https://tryhackme.com/room/mrrobot)
 
 
 ## Technology used
@@ -34,7 +39,6 @@
 - Other
   - DB：<img src="https://img.shields.io/badge/-Mysql-4479A1.svg?logo=mysql&style=plastic"> <img src="https://img.shields.io/badge/-Postgresql-336791.svg?logo=postgresql&style=plastic"> <img src="https://img.shields.io/badge/-Redis-D82C20.svg?logo=redis&style=plastic">
   - middleware：<img src="https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=plastic"> <img src="https://img.shields.io/badge/-Nginx-269539.svg?logo=nginx&style=plastic">
-  - software：<img src="https://img.shields.io/badge/-Grafana-F46800.svg?logo=grafana&style=plastic"> <img src="https://img.shields.io/badge/-Elasticsearch-005571.svg?logo=elasticsearch&style=plastic"> <img src="https://img.shields.io/badge/-Kibana-005571.svg?logo=kibana&style=plastic"> <img src="https://img.shields.io/badge/-Logstash-005571.svg?logo=logstash&style=plastic">
   - OS：<img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=plastic"> <img src="https://img.shields.io/badge/-Ubuntu-E95420.svg?logo=ubuntu&style=plastic"> <img src="https://img.shields.io/badge/-KaliLinux-cccccc.svg?logo=KaliLinux&style=plastic"> <img src="https://img.shields.io/badge/-CentOS-1EABE2.svg?logo=centos&style=plastic"> <img src="https://img.shields.io/badge/-Raspberrypi-C51A4A.svg?logo=raspberrypi&style=plastic">
 
 
