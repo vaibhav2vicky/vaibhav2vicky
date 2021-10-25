@@ -6,7 +6,7 @@ I'm a student studying Cyber Security.
 
 ## Achievements
 
-<img src="http://www.hackthebox.eu/badge/image/515995" alt="Hack The Box"> 
+<img src="http://www.hackthebox.eu/badge/image/515995" alt="Hack The Box"> <img src="https://tryhackme-badges.s3.amazonaws.com/Vaibhav2vicky.png" alt="TryHackMe">
 ## Pwned Machines (Hack The Box)
 
 - [Armageddon](https://www.hackthebox.eu/achievement/machine/503730/323)
